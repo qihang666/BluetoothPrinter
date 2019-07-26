@@ -1,0 +1,1 @@
+<view><scroll-view class="scroll-view_H" scroll-x="true" scroll-left="370"><view class="scroll-view-item_H" id="demo1">A</view><view class="scroll-view-item_H " id="demo2">B</view></scroll-view></view>

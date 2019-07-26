@@ -1,0 +1,13 @@
+
+.scroll-view_H {
+	width: 750rpx;
+	white-space: nowrap;
+}
+.scroll-view-item_H {
+	width: 750rpx;
+	height: 100rpx;
+	background-color: #0081FF;
+	display: inline-block;
+	overflow: hidden;
+}
+

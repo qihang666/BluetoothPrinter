@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/bule/bule",
+    "pages/index/index",
+    "pages/tab/tab"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "http",
+  "compilerVersion": "2.0.1",
+  "usingComponents": {}
+}

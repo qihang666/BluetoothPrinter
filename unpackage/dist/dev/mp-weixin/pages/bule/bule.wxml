@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['initBule',['$event']]]]]}}" bindtap="__e">init蓝牙</button><button data-event-opts="{{[['tap',[['onDevice',['$event']]]]]}}" bindtap="__e">监听搜索</button><button data-event-opts="{{[['tap',[['initBule2',['$event']]]]]}}" bindtap="__e">搜索蓝牙</button><view>{{''+msg1+''}}</view></view>
