@@ -237,7 +237,7 @@
                 command.setGap(2)
                 command.setCls()
                 command.setText(50, 10, "TSS24.BF2", 1, 1, "打印测试")
-                command.setQR(50, 50, "L", 5, "A", "97767937@qq.com")
+                command.setQR(50, 50, "L", 5, "A", "977767937@qq.com")
 				command.setPagePrint()
 				this.senBlData(deviceId, serviceId, characteristicId,command.getData())
 			},
