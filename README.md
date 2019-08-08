@@ -9,3 +9,7 @@ vue.js   uni-app 跨平台app框架 蓝牙连接打印机 demo , ESC TSPL 协议
 
 3. 苹果手机ios可以打印， 安卓手机Android不能打印，是因为安卓 Android 底层貌似做了限制只能接受20个字节，所以数据包要拆分成20字节一组，多组多次发送 demo里面有拆分操作可以自己查看
 
+# demo（界面简单 勿喷 *_*）
+![Image text](https://github.com/qihang666/BluetoothPrinter/blob/master/demo.jpg)
+
+
